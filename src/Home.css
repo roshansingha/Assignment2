@@ -1,0 +1,10 @@
+.card__modal {
+  display: flex;
+}
+.card__label {
+  display: flex;
+  flex-grow: 0.5;
+}
+.card__desc {
+  margin-top: 11px;
+}

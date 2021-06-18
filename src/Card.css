@@ -1,0 +1,30 @@
+.App__card__lists {
+  display: flex;
+  flex-direction: column;
+  height: 62vh;
+}
+
+.App__card__list {
+  display: flex;
+  flex-direction: column;
+  min-height: 20%;
+  margin: 4%;
+  border: 1px solid;
+  overflow: scroll;
+}
+.App__card__header {
+  display: flex;
+  flex-direction: row;
+}
+.App__card__title {
+  display: flex;
+  justify-content: center;
+  width: 93%;
+}
+.App__card__delete {
+  display: flex;
+  flex-direction: column;
+}
+.App__card__content {
+  margin-top: 3%;
+}
